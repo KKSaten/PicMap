@@ -16,6 +16,6 @@
 
 담당 역할 : 프로젝트 총괄, 카카오 로그인 API, 카카오 지도 API, 소셜(좋아요, 팔로잉, 팔로우 등), 무한 스크롤 등
 
-GitHub URL : https://github.com/PARK-CHAN-SOL/PicMap
+GitHub URL : https://github.com/KKSaten/PicMap
 
 최종 Branch : master
